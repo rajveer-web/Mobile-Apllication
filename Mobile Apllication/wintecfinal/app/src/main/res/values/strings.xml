@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wintec final</string>
+    <string name="web_development_is_the_work_involved_in_developing_a_web_site_for_the_internet_world_wide_web_or_an_intranet_a_private_network">Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network).</string>
+    <string name="a_computer_network_is_a_group_of_computers_that_use_a_set_of_common_communication_protocols_over_digital_interconnections_for_the_purpose_of_sharing_resources_located_on">A computer network is a group of computers that use a set of common communication protocols over digital interconnections for the purpose of sharing resources located on.</string>
+    <string name="software_development_is_the_process_of_conceiving_specifying_designing_programming_documenting_testing_and_bug_fixing_involved_in_creating_and_maintaining_applications">Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications.</string>
+    <string name="choose_gallery">Pick From Gallery</string>
+    <string name="choose_camera">Take From Camera</string>
+</resources>

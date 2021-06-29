@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/web"
+        android:title="Web Development" />
+    <item
+        android:id="@+id/networking"
+        android:title="Networking" />
+    <item
+        android:id="@+id/software"
+        android:title="Software Engineering" />
+    <item
+        android:id="@+id/database"
+        android:title="Database" />
+</menu>
